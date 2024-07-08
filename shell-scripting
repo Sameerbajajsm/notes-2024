@@ -1,0 +1,5 @@
+##Abhishek devops
+Shell scripting
+- always write the meta data info in bash
+- always mention debug mode in shell scripting for monitoring node health.
+set -x #this cmd show cmd along with output.
